@@ -23,6 +23,7 @@ AI主播
 数字员工
 
 GitHub
+开源项目
 
 谷歌
 google
@@ -45,3 +46,7 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+显卡
+
+比特币
+虚拟货币
